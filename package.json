@@ -1,0 +1,14 @@
+{
+  "name": "web-scripts-repro",
+  "version": "0.0.0-development",
+  "main": "index.js",
+  "author": "Mike Lewis <mtlewis@users.noreply.github.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "lint": "web-scripts lint --no-stylecheck --no-typecheck"
+  },
+  "devDependencies": {
+    "@spotify/web-scripts": "^8.1.1"
+  }
+}
